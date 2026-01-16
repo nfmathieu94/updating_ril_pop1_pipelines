@@ -1,6 +1,6 @@
 # Purpose
 
-My goal is to update and get several old pipelines working.
+My goal is to update and get several old pipelines working using `opencode` agents.
 The original pipelines are used to evaluate a transposable element (mPing) burst
 in a rice RIL population using Illumina short read sequencing.
 
